@@ -1,0 +1,11 @@
+.header nav a {
+    text-decoration: none;
+    margin-right: 30px;
+    color: black;
+}
+
+.header nav a:hover {
+    color: gold;
+    font-weight: 800;
+
+}
